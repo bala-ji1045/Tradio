@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Data: keep small sample, ignore large local files
+/data/*.csv
+!/data/sample_small.csv
+
+# Output: keep generated test predictions if needed
+!/output/
