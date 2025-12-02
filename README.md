@@ -11,6 +11,10 @@ pip install -r requirements.txt
 ```
 3. Place your CSV (e.g., `nifty50_ticks.csv`) into `data/`.
 
+https://github.com/user-attachments/assets/a9e5148e-ef2e-453f-abce-3151c71af879
+
+
+
 ## Run
 
 Train, evaluate, and generate signals + cumulative PnL:
